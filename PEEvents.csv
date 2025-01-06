@@ -1,6 +1,3 @@
-Hier ist die CSV-Liste der Events:
-
-```csv
 id,title,subtitle,type,image,date,time,url,status
 1,AFTER WORK PARTY,Einfach mal drüber tanzen.,party,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-01-09,18:00,https://www.peteredel.de/afterwork,
 2,BENN TRIFFT: Dr. Steffen Mau,Ungleich vereint - Warum der Osten anders bleibt,spokenword,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-01-13,20:00,https://www.eventim-light.com/de/a/60d4251b9700c742d183bbe5/e/66c8aa1d5f95d22f84e23182,ausverkauft
