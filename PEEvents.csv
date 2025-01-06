@@ -1,31 +1,30 @@
 id,title,subtitle,type,image,date,time,url,status
-1,AFTER WORK PARTY,Einfach mal drüber tanzen.,party,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-01-09,18:00,https://www.peteredel.de/afterwork,none
+1,AFTER WORK PARTY,Einfach mal drüber tanzen.,party,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-01-09,18:00,https://www.peteredel.de/afterwork,aktiv
 2,BENN TRIFFT: Dr. Steffen Mau,Ungleich vereint - Warum der Osten anders bleibt,spokenword,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-01-13,20:00,https://www.eventim-light.com/de/a/60d4251b9700c742d183bbe5/e/66c8aa1d5f95d22f84e23182,ausverkauft
-3,PRACHTWORTE Poetry Slam,Der Dichterwettstreit in Weißensee,spokenword,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-01-18,19:30,https://www.peteredel.de/events/prachtworte-poetry-slam/,none
-4,Hops & Hopsi Kinderprogramm,Jonglage, Musik & Zauberei,kinder,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-01-19,15:30,https://www.eventim-light.com/de/a/625acb24816d1e4fad52ee49/e/65d24675edb58613058cfc93,none
-5,Rudelsingen,Das Original aus Münster,füralle,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-01-20,19:30,https://rudelsingen.de/checkout/ppp/event/3615,none
-6,SWING IT BERLIN!,Präsentiert von Swing Base,festival,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-01-23,20:00,https://swingitberlin.com/,none
-7,SWING IT BERLIN!,Präsentiert von Swing Base,festival,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-01-26,20:00,https://swingitberlin.com/,none
-8,Kathrin Weßling: Sonnenhang LIVE,Buchpremiere,spokenword,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-01-28,20:00,https://www.concert-concept.de/show/kathrin-wessling/,none
-9,Tanztee im Peter Edel,Der Klassiker mit Kulturhaus-Flair,tanzen,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-02-02,15:00,https://www.peteredel.de/tanztee,none
-10,Aschenputtel,Kindertheater,kinder,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-02-02,16:00,https://www.peteredel.de/events/fuer-kinder/kindertheater/,none
-11,Schreiben Sie mir, oder ich sterbe.,Literarisch-musikalischer Abend mit Dana Golombek von Senden, Tobias Licht & Rolf Hammermüller (Piano),kleinkunst,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-02-14,20:00,https://www.peteredel.de/events/liebesbriefe/,none
-12,Yannicks Salon,Meisterwerke der Kammermusik,konzert,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-02-19,19:30,https://www.peteredel.de/events/yannicks-salon/,none
-13,AFTER WORK PARTY,Einfach mal drüber tanzen.,party,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-02-24,18:00,https://www.peteredel.de/afterwork,none
-14,DARWIN gefällt das,Die Live-Tour zum Buch,spokenword,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-02-24,20:00,https://tickets.190a.de/event/darwin-gefallt-das-live-in-berlin-nh8vla,none
+3,PRACHTWORTE Poetry Slam,Der Dichterwettstreit in Weißensee,spokenword,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-01-18,19:30,https://www.peteredel.de/events/prachtworte-poetry-slam/,aktiv
+4,Hops & Hopsi Kinderprogramm,Jonglage, Musik & Zauberei,kinder,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-01-19,15:30,https://www.eventim-light.com/de/a/625acb24816d1e4fad52ee49/e/65d24675edb58613058cfc93,aktiv
+5,Rudelsingen,Das Original aus Münster,füralle,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-01-20,19:30,https://rudelsingen.de/checkout/ppp/event/3615,aktiv
+6,SWING IT BERLIN!,Präsentiert von Swing Base,festival,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-01-23,20:00,https://swingitberlin.com/,aktiv
+7,SWING IT BERLIN!,Präsentiert von Swing Base,festival,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-01-26,20:00,https://swingitberlin.com/,aktiv
+8,Kathrin Weßling: Sonnenhang LIVE,Buchpremiere,spokenword,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-01-28,20:00,https://www.concert-concept.de/show/kathrin-wessling/,aktiv
+9,Tanztee im Peter Edel,Der Klassiker mit Kulturhaus-Flair,tanzen,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-02-02,15:00,https://www.peteredel.de/tanztee,aktiv
+10,Aschenputtel,Kindertheater,kinder,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-02-02,16:00,https://www.peteredel.de/events/fuer-kinder/kindertheater/,aktiv
+11,Schreiben Sie mir, oder ich sterbe.,Literarisch-musikalischer Abend mit Dana Golombek von Senden, Tobias Licht & Rolf Hammermüller (Piano),kleinkunst,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-02-14,20:00,https://www.peteredel.de/events/liebesbriefe/,aktiv
+12,Yannicks Salon,Meisterwerke der Kammermusik,konzert,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-02-19,19:30,https://www.peteredel.de/events/yannicks-salon/,aktiv
+13,AFTER WORK PARTY,Einfach mal drüber tanzen.,party,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-02-24,18:00,https://www.peteredel.de/afterwork,aktiv
+14,DARWIN gefällt das,Die Live-Tour zum Buch,spokenword,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-02-24,20:00,https://tickets.190a.de/event/darwin-gefallt-das-live-in-berlin-nh8vla,aktiv
 15,ZEROtoNINE Convention,Leider abgesagt. :(,festival,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-02-21,14:00,https://www.peteredel.de/events/,abgesagt
-16,Tanztee im Peter Edel,Der Klassiker mit Kulturhaus-Flair,tanzen,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-03-02,15:00,https://www.peteredel.de/tanztee,none
-17,Drei kleine Schweinchen,Kindertheater im Peter Edel,kinder,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-03-02,15:30,https://www.peteredel.de/events/fuer-kinder/kindertheater/,none
-18,Weitersagen  - DIE Westernhagen-Show!,Das bekannteste Double des Deutsch-Rockers ist zurück!,konzert,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-03-07,20:00,https://www.peteredel.de/events/weitersagen-die-westernhagen-show/,none
-19,Tangoloft Spring Festival 2025,Workshops, Practicas & Milongas,tanzen,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-03-08,14:30,https://www.peteredel.de/events/tangoloft-spring-festival-2025/,none
-20,Tangoloft Spring Festival 2025,Workshops, Practicas & Milongas,tanzen,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-03-09,16:00,https://www.peteredel.de/events/tangoloft-spring-festival-2025/,none
-21,Der Osten: Eine westdeutsche Erfindung,Diskussion mit SPIEGEL-Bestseller-Autor Dirk Oschmann & Sören Benn,spokenword,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-03-10,19:00,https://www.peteredel.de/events/der-osten-eine-westdeutsche-erfindung/?lang=de,none
-22,Klavierfest Berlin Weißensee 2025,BACH-KOSMOS,festival,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-03-14,20:00,https://www.klavierfest-bw.de/tickets/,none
-23,Hops & Hopsi KInderprogramm,Jonglage, Musik & Zauberei!,kinder,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-03-25,10:00,https://www.eventim-light.com/de/a/625acb24816d1e4fad52ee49/e/65d2472cedb58613058cfc9e,none
-24,Basti Heinlein - Warum immer ich?,Meisterwerke der Kammermusik,spokenword,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-03-26,20:00,https://www.concert-concept.de/show/basti-heinlein/,none
-25,Das Kinderlieder-Alphabet,Von und mit Gerhard Schöne,konzert,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-03-30,15:00,https://www.peteredel.de/events/gerhard-schoene/,none
-26,Ich sehe was, was Du nicht siehst,Gerhard Schöne singt Lieder aus 40 Jahren,konzert,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-03-30,15:00,https://www.peteredel.de/events/gerhard-schoene/,none
+16,Tanztee im Peter Edel,Der Klassiker mit Kulturhaus-Flair,tanzen,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-03-02,15:00,https://www.peteredel.de/tanztee,aktiv
+17,Drei kleine Schweinchen,Kindertheater im Peter Edel,kinder,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-03-02,15:30,https://www.peteredel.de/events/fuer-kinder/kindertheater/,aktiv
+18,Weitersagen  - DIE Westernhagen-Show!,Das bekannteste Double des Deutsch-Rockers ist zurück!,konzert,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-03-07,20:00,https://www.peteredel.de/events/weitersagen-die-westernhagen-show/,aktiv
+19,Tangoloft Spring Festival 2025,Workshops, Practicas & Milongas,tanzen,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-03-08,14:30,https://www.peteredel.de/events/tangoloft-spring-festival-2025/,aktiv
+20,Tangoloft Spring Festival 2025,Workshops, Practicas & Milongas,tanzen,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-03-09,16:00,https://www.peteredel.de/events/tangoloft-spring-festival-2025/,aktiv
+21,Der Osten: Eine westdeutsche Erfindung,Diskussion mit SPIEGEL-Bestseller-Autor Dirk Oschmann & Sören Benn,spokenword,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-03-10,19:00,https://www.peteredel.de/events/der-osten-eine-westdeutsche-erfindung/?lang=de,aktiv
+22,Klavierfest Berlin Weißensee 2025,BACH-KOSMOS,festival,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-03-14,20:00,https://www.klavierfest-bw.de/tickets/,aktiv
+23,Hops & Hopsi KInderprogramm,Jonglage, Musik & Zauberei!,kinder,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-03-25,10:00,https://www.eventim-light.com/de/a/625acb24816d1e4fad52ee49/e/65d2472cedb58613058cfc9e,aktiv
+24,Basti Heinlein - Warum immer ich?,Meisterwerke der Kammermusik,spokenword,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-03-26,20:00,https://www.concert-concept.de/show/basti-heinlein/,aktiv
+25,Das Kinderlieder-Alphabet,Von und mit Gerhard Schöne,konzert,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-03-30,15:00,https://www.peteredel.de/events/gerhard-schoene/,aktiv
+26,Ich sehe was, was Du nicht siehst,Gerhard Schöne singt Lieder aus 40 Jahren,konzert,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-03-30,15:00,https://www.peteredel.de/events/gerhard-schoene/,aktiv
 27,SYML,How it was it will never be again Tour 2025,konzert,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-04-03,20:00,https://tickets.loft.de/event/syml-qhdd2c,ausverkauft
-28,Tanztee im Peter Edel,Der Klassiker mit Kulturhaus-Flair,tanzen,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-04-06,15:00,https://www.peteredel.de/tanztee,none
-29,Peter und der Wolf,Schattentheater Scuraluna,kinder,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-04-06,16:00,https://www.peteredel.de/events/fuer-kinder/kindertheater/,none
-30,Wine Wednesday,Long Story Short Tour 2025,spokenword,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-04-03,20:00,https://tickets.190a.de/event/wine-wednesday-live-in-berlin-gcjuli,none
+28,Tanztee im Peter Edel,Der Klassiker mit Kulturhaus-Flair,tanzen,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-04-06,15:00,https://www.peteredel.de/tanztee,aktiv
+29,Peter und der Wolf,Schattentheater Scuraluna,kinder,https://www.peteredel.de/media/2237/placeholder_concert.jpg,2025-04-06,16:00,https://www.peteredel.de/events/fuer-kinder/kindertheater/,aktiv
